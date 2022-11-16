@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-[TODO: write short CV and personal description.]
+I should really tell you something about myself here. 

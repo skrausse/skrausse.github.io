@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Evolution"
 date:   2022-11-16 14:40:55 +0100
 categories: jekyll update
+excerpt: This is a short text highlighting some of the stuff made in this blog post. As it is an example blog post, there is nothing to describe here.
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
