@@ -1,3 +1,9 @@
+---
+layout: post
+title: "my second post"
+date: 2024-08-05
+---
+
 # The first notebook is here
 
 I can write some text here and see how it goes. This should be easy.

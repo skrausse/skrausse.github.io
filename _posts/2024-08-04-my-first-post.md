@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "My first post"
-date:   2024-08-04 17:59:16 +0200
-categories: notebooks
+title: "my first post"
+date: 2024-08-04
 ---
-
 
 # The first notebook is here
 
@@ -31,3 +29,10 @@ plt.show()
 
     
 ![png](/assets/2024-08-04-my-first-post_files/2024-08-04-my-first-post_1_0.png)
+    
+
+
+
+```python
+
+```

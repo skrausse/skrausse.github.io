@@ -32,8 +32,11 @@ title: \"${TITLE//-/ }\"
 date: ${DATE}
 ---"
 
-# Insert the front matter at the beginning of the file
-sed -i "1s/^/${FRONT_MATTER}\n\n/" "../_posts/${POST_NAME}"
+# Create a temporary file with the front matter and the content of the Markdown file
+echo -e "${FRONT_MATTER}\n\n$(cat "../_posts/${POST_NAME}")" > "../_posts/${POST_NAME}.tmp"
+
+# Replace the original Markdown file with the temporary file
+mv "../_posts/${POST_NAME}.tmp" "../_posts/${POST_NAME}"
 
 # Step 5: Update the links in the Markdown file
 sed -i "s|${BASENAME}_files|${ASSETS_DIR}|g" "../_posts/${POST_NAME}"
