@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: skrausse blog
+title: Code & Cortex - Random Learning Journeys
 email: sven.krausse@rwth-aachen.de
 description: >- # this means to ignore newlines until "baseurl:"
   This will someday be my blog of random learning journeys. For now its empty. 
@@ -43,14 +43,5 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - notebooks/

@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
+title: Hi, I'm Sven
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Nice of you to stop by :). I am a PhD student in electrical engineering in Aachen/Jülich. My focus of work is in bio-inspired algorithms for efficient machine learning. To this end, I am currently learning a lot about both machine learning and computational neuroscience. And I thought I might as well take anyone with me on that journey, who is willing to read my sorrow explanations while I try to grasp these concepts myself. 
