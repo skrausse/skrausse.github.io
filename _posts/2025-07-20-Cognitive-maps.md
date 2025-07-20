@@ -1,5 +1,3 @@
-# Cognitive maps
-
 Have you ever wondered, when exactly you learn something? What exactly triggers the process of learning in the brain?
 
 A typical answer to this would be reinforcing events. When you get a positive reward, you tend to repeat the thing that led to this reward. When you received a punishment, maybe not do the same thing the next time you are in this situation. 
@@ -25,4 +23,4 @@ Astonishingly, the day after that, the rats in the second group were just as goo
 - This leads us to the concept pattern completion (Hopfield networks) -->
 
 # References
-[1]: Tolman, E. C. (1948). Cognitive maps in rats and men. Psychological Review, 55(4), 189–208. https://doi.org/10.1037/h0061626
+\[1\]: Tolman, E. C. (1948). Cognitive maps in rats and men. Psychological Review, 55(4), 189–208. [DOI](https://doi.org/10.1037/h0061626)
