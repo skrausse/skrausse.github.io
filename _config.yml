@@ -1,4 +1,4 @@
-title: Code & Cortex - Random Learning Journeys
+title: Blog
 author:
   name: Sven Krausse
   email: sven.krausse@rwth-aachen.de
@@ -68,7 +68,7 @@ minima:
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-   - { platform: x,              user_url: "https://x.com/SvenKrausse" }
+  #  - { platform: x,              user_url: "https://x.com/SvenKrausse" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 exclude:
